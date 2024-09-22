@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+#main-block{
+    border: 2px solid black;
+    width: 400px;
+    height: 304px;
+    background-color: orange;
+}
+
+.qv{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: none;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.qv2{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+}
+.qv3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 150px;
+}
+
+
